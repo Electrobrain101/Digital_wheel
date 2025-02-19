@@ -1,3 +1,4 @@
+# Digital Wheel
 This Arduino sketch uses reed switches and the `Keyboard` library to simulate keypresses when the reed switches are activated. The reed switches are connected to digital pins on the Arduino, and each reed switch is associated with a specific key on the keyboard. When a reed switch is triggered (when it changes from HIGH to LOW), the corresponding key is pressed and sent to the computer.
 
 #### Key Features:
